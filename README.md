@@ -10,3 +10,4 @@ still need help with getting the blue man back after I removed it???
 tommythib/tommythib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+fixed bluetooth
